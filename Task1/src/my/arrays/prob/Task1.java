@@ -21,12 +21,6 @@ public class Task1 {
 //		arrObj.printArray();		
 //		System.out.println(arrObj.getLength());
 		
-		
-		SimpleNumbers ar = new SimpleNumbers(input);		
-		ar.fillArray();
-		ar.printArray();
-		ar.SNums();
-		
 	}
 
 }
