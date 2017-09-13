@@ -11,15 +11,15 @@ public class Task1 {
 		
 		int input = in.nextInt();
 		
-//		Array arrObj = new Array(input);		
-//		System.out.println(arrObj.getLength());		
-//		arrObj.fillArray();		
-//		arrObj.printArray();		
+		Array arrObj = new Array(input);		
+		System.out.println(arrObj.getLength());		
+		arrObj.fillArray();		
+		arrObj.printArray();		
 //		arrObj.reverse();		
-//		arrObj.bubbleSort();		
+		arrObj.bubbleSort();		
 //		arrObj.evenOdd();			
-//		arrObj.printArray();		
-//		System.out.println(arrObj.getLength());
+		arrObj.printArray();		
+		System.out.println(arrObj.getLength());
 		
 	}
 
