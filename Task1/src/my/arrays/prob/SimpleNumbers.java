@@ -26,6 +26,7 @@ public class SimpleNumbers {
 		System.out.println();
 	}
 	
+	// The prime numbers searching algo
 	public void SNums() {
 		for(int i = 0; i < nums; i++) {
 			boolean isPrime = true;
